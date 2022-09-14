@@ -1,6 +1,12 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "id": "1",
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "id": "3f865f0c-554f-4fd7-a57a-9039815dd728",
+    "title": "dsda",
+    "text": "asddasdas"
+  }
 ]
